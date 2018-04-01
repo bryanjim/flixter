@@ -18,6 +18,7 @@ gem 'simple_form'
 gem 'mini_magick'
 gem 'figaro'
 gem 'fog-aws'
+gem 'carrierwave-aws'
 
 # devise
 gem 'devise'
