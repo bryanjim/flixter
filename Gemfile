@@ -15,6 +15,9 @@ end
 gem 'carrierwave', '~> 1.0'
 # simple_form
 gem 'simple_form'
+gem 'mini_magick'
+gem 'figaro'
+gem 'fog-aws'
 
 # devise
 gem 'devise'
